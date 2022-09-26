@@ -18,7 +18,7 @@ This repository holds all assignments neccesary to complete the course.
 
 #### Technologies
 
-- Data Science
+- Machine Learning/AI
 - Python
 
 [Back To The Top](#read-me-template)
